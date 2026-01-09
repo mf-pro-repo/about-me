@@ -1,15 +1,23 @@
-# about-me
-I'm an IT and security-focused professional with experience in Windows systems, Active Directory, scripting, and network troubleshooting. My background includes high-responsibility operational roles in the U.S. Navy and hands-on IT support and management across small to enterprise environments.
+#About Me
 
-I'm building this GitHub to document practical security projects, automation tools, and learning exercises as I continue developing toward red-team and SOC-focused roles.
-As well as a way to document any other fun tidbits I find along the way.
+I’m an IT and security-focused technologist with a strong interest in how systems fail, why insecure practices persist, and how attackers take advantage of both. My background includes Windows environments, Active Directory, scripting, and network troubleshooting, along with high-responsibility operational roles in the U.S. Navy and hands-on IT work across small to enterprise environments.
 
-## Areas of Interest
-- Incident response & log analysis
-- Windows security & Active Directory
-- Automation with PowerShell & Python
-- Network security & segmentation
-- OT / ICS security fundamentals
+I tend to learn by building, breaking, and then documenting what went wrong. This GitHub is a place for security-focused automation, lab-based attack simulations, defensive lessons learned from offensive techniques, and anything else I find interesting enough to dig into deeply.
 
-## Disclaimer
-All projects are created in lab environments or with publicly available data. No proprietary or sensitive information is used.
+Long-term, I’m aiming toward red-team work. Short-term, I care about becoming the kind of security practitioner who understands systems well enough to explain why something is risky—not just that it is.
+
+##Areas I Like to Work In
+
+Windows security & Active Directory (from both admin and attacker perspectives)
+
+Incident response, log analysis, and “what would this look like if it were abused?”
+
+Automation with PowerShell and Python
+
+Network security, segmentation, and misconfiguration analysis
+
+OT / ICS security fundamentals
+
+##Notes
+
+Everything here is built in lab environments or from public data. No proprietary systems, no production abuse—just controlled experimentation and documentation.
